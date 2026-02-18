@@ -1,0 +1,5 @@
+{
+  "name": "EPUB to TXT Converter",
+  "description": "A fast, privacy-focused tool to convert EPUB eBooks into plain text files directly in your browser. Handles large files and automatically skips table of contents.",
+  "requestFramePermissions": []
+}
